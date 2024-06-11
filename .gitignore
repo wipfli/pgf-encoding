@@ -1,0 +1,3 @@
+__pycache__/*
+corpus/*.txt
+glyph_counts/*.csv
