@@ -67,7 +67,7 @@ def write_glyph_counts(glyph_counts, file_path):
             f.write(f'{item[0][0]},{item[0][1]},{item[0][2]},{item[0][3]},{item[0][4]},{item[1]}\n')
 
 font_path = f'fonts/{font_name}.ttf'
-corpus_path = f'corpus/{script}-head.txt'
+corpus_path = f'corpus/{script}.txt'
 
 hb_glyph_counts = get_hb_glyph_counts(font_path, corpus_path)
 ml_glyph_counts = to_ml_glyph_counts(hb_glyph_counts)

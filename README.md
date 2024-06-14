@@ -20,7 +20,7 @@ font_name = 'NotoSansDevanagari-Regular'
 version = 1
 ```
 
-Download text corpus:
+Download word corpus files from [wipfli/word-corpus](https://github.com/wipfli/word-corpus) with:
 
 ```
 python3 download_corpus.py
@@ -34,7 +34,7 @@ Next, shape the corpus text with a ttf font and get the glyph counts:
 python3 glyph_counts.py
 ```
 
-This should create the file `glyph_counts/devanagari.csv`.
+This should create the file `glyph_counts/devanagari.csv`. Depending on the size of the corpus, this step may take multiple days to execute.
 
 Finally, map glyphs to unicode codepoints with:
 
@@ -95,3 +95,4 @@ Since here we have edited the glyphs on existing codepoints, we need to bump the
 
 - The code in this repo is published under the MIT license.
 - The fonts in the `fonts` folder are published under the Open Font License.
+- The encodings in the `encoding` folder are distributed under the CC0 license.

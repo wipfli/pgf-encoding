@@ -2,8 +2,8 @@ import subprocess
 import json
 
 def shape(font_path, text):
-    command = f'hb-shape --no-glyph-names --output-format=json {font_path} {text}'
-    result = json.loads(subprocess.run(command, shell=True, stdout=subprocess.PIPE).stdout.decode())
+    command = f'hb-shape --no-glyph-names --output-format=json {font_path}'
+    result = json.loads(subprocess.run(command, shell=True, stdout=subprocess.PIPE, input=text, text=True).stdout)
     glyphs = []
     for item in result:
         glyphs.append({
