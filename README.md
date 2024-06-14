@@ -94,5 +94,5 @@ Since here we have edited the glyphs on existing codepoints, we need to bump the
 ## License
 
 - The code in this repo is published under the MIT license.
-- The fonts in the `fonts` folder are published under the Open Font License.
+- The fonts in the `fonts` folder are published under the [SIL Open Font License](fonts/OFL.txt).
 - The encodings in the `encoding` folder are distributed under the CC0 license.
