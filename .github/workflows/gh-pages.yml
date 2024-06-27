@@ -1,0 +1,21 @@
+name: GitHub Pages
+on: [push]
+permissions:
+  contents: write
+jobs:
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Download zip ball
+        run: |
+          mkdir zip
+          curl https://github.com/wipfli/pgf-encoding/archive/refs/heads/main.zip -o zip/pgf-encoding.zip -L
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: zip
