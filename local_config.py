@@ -1,3 +1,3 @@
-script = 'devanagari'
-font_name = 'NotoSansDevanagari-Regular'
+script = 'khmer'
+font_name = 'NotoSansKhmer-Regular'
 version = 1

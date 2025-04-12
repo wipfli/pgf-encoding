@@ -15,7 +15,7 @@ def get_hb_glyph_counts(font_path, corpus_path):
 
     glyph_counts = {}
 
-    print(f'reading {corpus_path}...')
+    print(f"reading {corpus_path} ...")
     line_number = -1
     with open(corpus_path) as f:
         while True:
