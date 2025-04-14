@@ -1,0 +1,152 @@
+[
+  {
+    "first_including": 63488,
+    "last_including": 63743,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 63232,
+    "last_including": 63487,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 62976,
+    "last_including": 63231,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 62720,
+    "last_including": 62975,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 62464,
+    "last_including": 62719,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 62208,
+    "last_including": 62463,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 61952,
+    "last_including": 62207,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 61696,
+    "last_including": 61951,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 61440,
+    "last_including": 61695,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 61184,
+    "last_including": 61439,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 60928,
+    "last_including": 61183,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 60672,
+    "last_including": 60927,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 60416,
+    "last_including": 60671,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 60160,
+    "last_including": 60415,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 59904,
+    "last_including": 60159,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 59648,
+    "last_including": 59903,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 59392,
+    "last_including": 59647,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 59136,
+    "last_including": 59391,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 58880,
+    "last_including": 59135,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 58624,
+    "last_including": 58879,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 58368,
+    "last_including": 58623,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 58112,
+    "last_including": 58367,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 57856,
+    "last_including": 58111,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 57600,
+    "last_including": 57855,
+    "unicode_range": "Private Use Area"
+  },
+  {
+    "first_including": 3072,
+    "last_including": 3327,
+    "unicode_range": "Indic Scripts"
+  },
+  {
+    "first_including": 2816,
+    "last_including": 3071,
+    "unicode_range": "Indic Scripts"
+  },
+  {
+    "first_including": 2560,
+    "last_including": 2815,
+    "unicode_range": "Indic Scripts"
+  },
+  {
+    "first_including": 2304,
+    "last_including": 2559,
+    "unicode_range": "Indic Scripts"
+  },
+  {
+    "first_including": 10240,
+    "last_including": 10495,
+    "unicode_range": "Braille Patterns"
+  },
+  {
+    "first_including": 10752,
+    "last_including": 11007,
+    "unicode_range": "Supplemental Mathematical Operators"
+  }
+]
