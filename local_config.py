@@ -1,3 +1,3 @@
-script = 'myanmar'
-font_name = 'NotoSansMyanmar-Regular'
+script = 'gujarati'
+font_name = 'NotoSansGujarati-Regular'
 version = 1
